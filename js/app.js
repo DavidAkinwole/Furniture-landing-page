@@ -10,7 +10,9 @@ async function loadPage() {
         loadSection("navbar", "sections/navbar.html"),
         loadSection("hero", "sections/hero.html"),
         loadSection("form", "sections/form.html"),
-        loadSection("footer", "sections/footer.html")
+        loadSection("footer", "sections/footer.html"),
+        loadSection("overview", "sections/overview.html"),
+        loadSection("example", "sections/example.html")
     ]);
 }
 
